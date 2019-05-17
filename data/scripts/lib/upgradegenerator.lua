@@ -1,0 +1,1 @@
+UpgradeGenerator.add("data/scripts/systems/pvpscanner.lua", 0.5)

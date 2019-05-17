@@ -1,0 +1,42 @@
+# ========== mods\PVPScanner\data\scripts\systems\pvpscanner.lua ==========
+#: mods\PVPScanner\data\scripts\systems\pvpscanner.lua:
+msgid "Scan up to %i sectors away."
+msgstr "Выполнить сканирование в радиусе %i секторов."
+
+#: mods\PVPScanner\data\scripts\systems\pvpscanner.lua:
+msgid "Scan for players"
+msgstr "Поиск игроков"
+
+#: mods\PVPScanner\data\scripts\systems\pvpscanner.lua:
+msgid "Player Scanner"
+msgstr "Сканер игроков"
+
+#: mods\PVPScanner\data\scripts\systems\pvpscanner.lua:
+msgid "Start Scanning"
+msgstr "Начать сканирование"
+
+#: mods\PVPScanner\data\scripts\systems\pvpscanner.lua:
+msgid "Player scanning range"
+msgstr "Радиус сканирования игроков"
+
+#: mods\PVPScanner\data\scripts\systems\pvpscanner.lua:
+msgid "Adds a scanner for Players."
+msgstr "Добавляет возможность определять местоположение игроков."
+
+#: mods\PVPScanner\data\scripts\systems\pvpscanner.lua:
+msgid "Another ship located your position!"
+msgstr "Другой корабль запеленговал ваши координаты!"
+
+#: mods\PVPScanner\data\scripts\systems\pvpscanner.lua:
+msgid "Progress: %i%%"
+msgstr "Прогресс: %i%%"
+
+#: mods\PVPScanner\data\scripts\systems\pvpscanner.lua:
+msgid "Click to show %s on Galaxy Map"
+msgstr "Нажмите, чтобы показать %s на карте"
+
+#: mods\PVPScanner\data\scripts\systems\pvpscanner.lua:
+msgid "Stop Scanning"
+msgstr "Остановить сканирование"
+
+

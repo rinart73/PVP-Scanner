@@ -1,0 +1,1 @@
+addSystemUpgrade("pvpscanner", "Player Scanner")
