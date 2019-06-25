@@ -49,8 +49,7 @@ function initialize(seed, rarity, permanent_in)
         configOptions["HyperspaceCooldownDebuff"] = {default = 50, min = 0, format = "floor", comment = "Apply hyperspace cooldown when scanning starts. 0 to disable."}
         configOptions["ScanningTime"] = {default = 25, min = 1, max = 100, comment = "How long in seconds scanning will take."}
         configOptions["PVPZoneRange"] = {default = -1, min = -1, comment = "System only detects players in PVP area. Here you can specify PVP area radius from center of galaxy. -1 means that system can detect players anywhere."}
-        -- Currently disabled because of the 'Server().folder' bug
-        --configOptions["UpgradeWeight"] = {default = 0.5, min = 0, max = 1000, comment = "Relative chance of getting this upgrade from 0.0 to 1000."}
+        configOptions["UpgradeWeight"] = {default = 0.5, min = 0, max = 1000, comment = "Relative chance of getting this upgrade from 0.0 to 1000."}
     end
     local isModified
     config, isModified = Azimuth.loadConfig("PVPScanner", configOptions)
